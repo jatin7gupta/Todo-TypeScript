@@ -1,5 +1,7 @@
 # Node Todo app Nagarro October 2017
 
+Live Demo is hosted using [Github pages](https://jatin7gupta.github.io/Todo-TypeScript//)
+
 This [app](https://jatin7gupta.github.io/Todo-TypeScript/) was made to learn different aspect of TypeScript, HTML and CSS.
 
 <p align="center">
