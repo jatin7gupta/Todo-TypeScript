@@ -21,7 +21,7 @@ This app was made to learn different aspect of TypeScript, HTML and CSS.
 * Add Todo : This section lets you add a todo (with status Active).
 * Completed Todos : This section displays completed todos. Clicking the checkbox makes the todo active (again). Clicking the red X deletes the todo.
 * Deleted Todos : Displays list of deleted todos.
-* Update the todo with just a simple click on the active todo, and to save just hit enter.
+* Update Todo: With just a simple click on the active todo, and to save just hit enter.
 * Used some design principles in UI making, like suitable color choice etc.
 
 ## Features Not Built
