@@ -1,6 +1,6 @@
 # Node Todo app Nagarro October 2017
 
-This [app](http://todo-app-7777.bitballoon.com) was made to learn different aspect of TypeScript, HTML and CSS.
+This [app](https://jatin7gupta.github.io/Todo-TypeScript/) was made to learn different aspect of TypeScript, HTML and CSS.
 
 <p align="center">
 <a href="http://tinypic.com?ref=qq1ely" target="_blank"><img src="http://i65.tinypic.com/qq1ely.png" border="0" alt="Image and video hosting by TinyPic"></a>
